@@ -58,3 +58,64 @@ C:\Users\gabrielg\source\repos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - 
 C:\Users\gabrielg\source\repos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.exe
 C:\Users\gabrielg\source\repos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.xml
 C:\Users\gabrielg\source\repos\Aprendendo VB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.pdb
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.AssemblyReference.cache
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\_1___Primeiro_Projeto.Frm_TelaPrincipal.resources
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\_1___Primeiro_Projeto.Resources.resources
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.GenerateResource.cache
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.exe.licenses
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.CoreCompileInputs.cache
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.exe
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.pdb
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe.config
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.exe
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.pdb
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\1 - Primeiro Projeto.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\gabrielg\Desktop\Treinamento\VB.NET_DevExpress\AprendendoVB\1 - Primeiro Projeto\obj\Debug\1 - Primeiro Projeto.vbproj.CopyComplete
