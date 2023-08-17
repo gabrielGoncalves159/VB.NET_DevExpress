@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1 - Primeiro Projeto", "1 - Primeiro Projeto\1 - Primeiro Projeto.vbproj", "{5D8298C1-C604-4732-BF4A-5EA47BCF6963}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2 - Criando Variáveis", "2 - Criando Variáveis\2 - Criando Variáveis.vbproj", "{83037FF6-14B8-4DF8-BF99-5FA5FE35CFDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5D8298C1-C604-4732-BF4A-5EA47BCF6963}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D8298C1-C604-4732-BF4A-5EA47BCF6963}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D8298C1-C604-4732-BF4A-5EA47BCF6963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83037FF6-14B8-4DF8-BF99-5FA5FE35CFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83037FF6-14B8-4DF8-BF99-5FA5FE35CFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83037FF6-14B8-4DF8-BF99-5FA5FE35CFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83037FF6-14B8-4DF8-BF99-5FA5FE35CFDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
